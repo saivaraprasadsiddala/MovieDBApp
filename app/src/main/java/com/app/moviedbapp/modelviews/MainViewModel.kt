@@ -1,4 +1,4 @@
-package com.app.moviedbapp
+package com.app.moviedbapp.modelviews
 
 import android.content.Context
 import androidx.lifecycle.MutableLiveData

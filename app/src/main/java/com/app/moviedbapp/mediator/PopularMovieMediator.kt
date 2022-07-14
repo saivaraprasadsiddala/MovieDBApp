@@ -7,7 +7,7 @@ import androidx.paging.PagingState
 import androidx.paging.RemoteMediator
 import androidx.room.withTransaction
 import com.app.moviedbapp.BuildConfig
-import com.app.moviedbapp.TimeUtils
+import com.app.moviedbapp.activities.TimeUtils
 import com.app.moviedbapp.database.MovieDataBase
 import com.app.moviedbapp.movies.popular.MovieItem
 import com.app.moviedbapp.movies.popular.RemoteKeys

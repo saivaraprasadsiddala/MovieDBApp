@@ -1,4 +1,4 @@
-package com.app.moviedbapp
+package com.app.moviedbapp.activities
 
 import android.widget.TextView
 import androidx.databinding.BindingAdapter

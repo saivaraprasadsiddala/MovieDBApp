@@ -60,7 +60,9 @@ data class MovieItem(
     @field:SerializedName("vote_count")
     var voteCount: Int? = null,
 
-    var timeStamp: Long? = null
+    var timeStamp: Long? = null,
+
+    var favorite:Int?= null
 ) : Parcelable {
     companion object {
 

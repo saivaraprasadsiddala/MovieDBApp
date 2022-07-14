@@ -11,6 +11,9 @@ import com.app.moviedbapp.movies.popular.MovieItem
 interface MovieDao {
 
     @Insert(onConflict = OnConflictStrategy.REPLACE)
+    fun insert(movie: MovieItem): Long
+
+    @Insert(onConflict = OnConflictStrategy.REPLACE)
     fun insertAll(movies: List<MovieItem>): List<Long>
 
     @Query("SELECT * FROM MovieItem ORDER BY timeStamp DESC")
