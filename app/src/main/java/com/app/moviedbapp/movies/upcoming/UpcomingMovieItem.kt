@@ -51,5 +51,6 @@ data class UpcomingMovieItem(
 	var voteCount: Int? = null,
 
 	@field:SerializedName("time_stamp")
-	var timeStamp: Int? = null
+	var timeStamp: Int? = null,
+
 ) : Parcelable
