@@ -62,6 +62,7 @@ data class MovieItem(
 
     var timeStamp: Long? = null,
 
+
     var favorite:Int?= null,
 
 ) : Parcelable {

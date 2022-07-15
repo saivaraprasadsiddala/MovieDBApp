@@ -10,7 +10,7 @@ import com.app.moviedbapp.movies.upcoming.UpcomingMovieItem
 import com.app.moviedbapp.movies.upcoming.UpcomingRemoteKeys
 
 
-@Database(entities = [MovieItem::class, UpcomingMovieItem::class, RemoteKeys::class, UpcomingRemoteKeys::class], version = 2, exportSchema = false)
+@Database(entities = [MovieItem::class, UpcomingMovieItem::class, RemoteKeys::class, UpcomingRemoteKeys::class], version = 3, exportSchema = false)
 abstract class MovieDataBase: RoomDatabase()  {
     abstract fun movieItemDao():MovieDao
     abstract fun remoteKeyDao(): RemoteKeysDao

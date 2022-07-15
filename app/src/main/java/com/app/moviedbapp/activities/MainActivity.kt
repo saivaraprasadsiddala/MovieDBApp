@@ -28,6 +28,7 @@ class MainActivity : AppCompatActivity() {
 
         val viewModel = ViewModelProvider(this)[MainViewModel::class.java]
 
+
         val popularMovieAdapter = MovieListAdapter()
         popularMovieAdapter.onItemClickListener = object : OnItemClickListener {
             override fun onItemClick(view: View, item: MovieItem) {
@@ -54,7 +55,7 @@ class MainActivity : AppCompatActivity() {
             }
 
             override fun onUpcomingMovieItemClick(view: View, item: UpcomingMovieItem) {
-//                MovieDetailFragment.newInstance(item).show(supportFragmentManager, "MovieDetailFragment")
+             UpMovieDetailFragment.newInstance(item).show(supportFragmentManager, "UpMovieDetailFragment")
             }
 
         }

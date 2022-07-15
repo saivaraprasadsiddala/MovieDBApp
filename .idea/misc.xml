@@ -3,16 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/CEPL/Desktop/MoviedbApp/app/src/main/res/drawable/borded_star.xml" value="0.1" />
-        <entry key="..\:/Users/CEPL/Desktop/MoviedbApp/app/src/main/res/drawable/filled_star.xml" value="0.1" />
-        <entry key="..\:/Users/CEPL/Desktop/MoviedbApp/app/src/main/res/drawable/ic_movie.xml" value="0.102" />
-        <entry key="..\:/Users/CEPL/Desktop/MoviedbApp/app/src/main/res/layout/activity_main.xml" value="0.2" />
-        <entry key="..\:/Users/CEPL/Desktop/MoviedbApp/app/src/main/res/layout/activity_movie_details.xml" value="0.25" />
-        <entry key="..\:/Users/CEPL/Desktop/MoviedbApp/app/src/main/res/layout/activity_splash.xml" value="0.18645833333333334" />
-        <entry key="..\:/Users/CEPL/Desktop/MoviedbApp/app/src/main/res/layout/item_popular_movie.xml" value="0.25" />
-        <entry key="..\:/Users/CEPL/Desktop/MoviedbApp/app/src/main/res/layout/item_upcoming_movie.xml" value="0.1" />
-        <entry key="..\:/Users/CEPL/Desktop/MoviedbApp/app/src/main/res/layout/movie_detail_view.xml" value="0.2" />
-        <entry key="..\:/Users/CEPL/Desktop/MoviedbApp/app/src/main/res/layout/upcoming_movie_detailview.xml" value="0.17685185185185184" />
+        <entry key="..\:/Users/CEPL/Desktop/MoviedbApp/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/CEPL/Desktop/MoviedbApp/app/src/main/res/layout/activity_upcoming_movie_detail_fragment.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/CEPL/Desktop/MoviedbApp/app/src/main/res/layout/item_popular_movie.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/CEPL/Desktop/MoviedbApp/app/src/main/res/layout/item_upcoming_movie.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/CEPL/Desktop/MoviedbApp/app/src/main/res/layout/movie_detail_view.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/CEPL/Desktop/MoviedbApp/app/src/main/res/layout/upcoming_movie_detail_view.xml" value="0.22" />
+        <entry key="..\:/Users/CEPL/Desktop/MoviedbApp/app/src/main/res/layout/upmovie_detail_view.xml" value="0.33" />
         <entry key="..\:/Users/Lenovo/AndroidStudioProjects/MoviedbApp/app/src/main/res/drawable/ic_movie.xml" value="0.1865" />
         <entry key="..\:/Users/Lenovo/AndroidStudioProjects/MoviedbApp/app/src/main/res/layout/activity_main.xml" value="0.25052083333333336" />
         <entry key="..\:/Users/Lenovo/AndroidStudioProjects/MoviedbApp/app/src/main/res/layout/item_popular_movie.xml" value="0.25052083333333336" />

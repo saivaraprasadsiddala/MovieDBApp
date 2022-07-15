@@ -53,4 +53,7 @@ data class UpcomingMovieItem(
 	@field:SerializedName("time_stamp")
 	var timeStamp: Int? = null,
 
-) : Parcelable
+
+	var favorite:Int?= null,
+
+	) : Parcelable
